@@ -1,0 +1,13 @@
+{
+  "render_type": "minecraft:solid",
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "abyssal_mines:block/anchor-side",
+    "down":  "abyssal_mines:block/anchor-bottom",
+    "up":    "abyssal_mines:block/anchor-top",
+    "north": "abyssal_mines:block/anchor-side",
+    "east":  "abyssal_mines:block/anchor-side",
+    "south": "abyssal_mines:block/anchor-side",
+    "west":  "abyssal_mines:block/anchor-side"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "_comment": "data/abyssal_mines/dimension/mining_dim.json",
+  "_description": "Definizione completa della dimensione Abyssal Mining. Un unico bioma, generazione a cave enormi.",
+
+  "type": "abyssal_mines:mining_dim",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "abyssal_mines:mining_dim",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "abyssal_mines:mining_biome"
+    }
+  }
+}

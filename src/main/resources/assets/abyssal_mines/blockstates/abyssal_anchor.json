@@ -1,0 +1,6 @@
+{
+  "multipart": [
+    { "apply": { "model": "abyssal_mines:block/abyssal_anchor_base" } },
+    { "apply": { "model": "abyssal_mines:block/abyssal_anchor_glow" } }
+  ]
+}

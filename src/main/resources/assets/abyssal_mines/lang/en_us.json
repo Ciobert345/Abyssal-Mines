@@ -1,0 +1,13 @@
+{
+  "block.abyssal_mines.abyssal_anchor": "Abyssal Anchor",
+  "block.abyssal_mines.voidstone_ore": "Voidstone Ore",
+  "block.abyssal_mines.strong_voidstone_ore": "Strong Voidstone Ore",
+  "item.abyssal_mines.voidstone_crystal": "Voidstone Crystal",
+  "item.abyssal_mines.strong_voidstone_crystal": "Strong Voidstone Crystal",
+  "item.abyssal_mines.abyssal_lantern": "Abyssal Lantern",
+  "container.abyssal_mines.abyssal_lantern": "Abyssal Lantern",
+  "tooltip.abyssal_mines.abyssal_lantern_fuel_normal": "Normal Fuel: %s/%s",
+  "tooltip.abyssal_mines.abyssal_lantern_fuel_strong": "Strong Fuel: %s/%s",
+  "biome.abyssal_mines.mining_biome": "Abyssal Mines",
+  "itemGroup.abyssal_mines.main": "Abyssal Mines"
+}

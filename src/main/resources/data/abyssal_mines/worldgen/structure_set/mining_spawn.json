@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "abyssal_mines:mining_spawn",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 8,
+    "separation": 3,
+    "spread_type": "linear",
+    "salt": 42
+  }
+}

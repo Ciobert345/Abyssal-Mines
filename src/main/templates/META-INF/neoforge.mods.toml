@@ -1,0 +1,30 @@
+# src/main/templates/META-INF/neoforge.mods.toml
+
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="Ciobert"
+description='''
+Benvenuto in Abyssal Mines! Questa mod aggiunge una dimensione sotterranea oscura,
+piena di enormi caverne e ricca di minerali rari come il Voidstone.
+Crafta l'ancora abissale con deepslate e obsidian, quindi tuffati nell'abisso!
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

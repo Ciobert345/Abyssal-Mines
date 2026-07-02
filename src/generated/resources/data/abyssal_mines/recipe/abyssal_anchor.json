@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:deepslate"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    " D ",
+    "DOD",
+    " D "
+  ],
+  "result": {
+    "count": 4,
+    "id": "abyssal_mines:abyssal_anchor"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#abyssal_mines:has_mining_spawn",
+  "step": "surface_structures",
+  "start_pool": "abyssal_mines:mining_spawn/start",
+  "size": 1,
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false,
+  "start_height": {
+    "absolute": 290
+  },
+  "spawn_overrides": {}
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "abyssal_mines:voidstone_crystal"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "CIC",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "abyssal_mines:abyssal_lantern"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "abyssal_mines:item/voidstone_crystal"
+  }
+}
+
